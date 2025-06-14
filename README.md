@@ -1,6 +1,4 @@
-Perfeito, Mara! Aqui está o modelo completo de **README.md** pronto para colar no seu repositório GitHub do desafio Copilot + Azure OpenAI:
 
----
 
 ## 📄 README.md — Desafio DIO: Copilot & Azure OpenAI
 
